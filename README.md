@@ -1,5 +1,6 @@
 pip3 install scrapy  
 pip3 install beautifulsoup4  
+scrapy genspider yeyinfu "bilibili.com"
 scrapy scraw yeyinfu  
 python3 countJ4.py  
 

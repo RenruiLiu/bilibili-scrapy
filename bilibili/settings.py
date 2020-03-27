@@ -67,6 +67,7 @@ ROBOTSTXT_OBEY = True
 ITEM_PIPELINES = {
    # 'bilibili.pipelines.BilibiliPipeline': 300,
    'bilibili.pipelines.YeyinfuVideoTitlesPipeline': 300,
+   'bilibili.pipelines.BibaVideoTitlesPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
