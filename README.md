@@ -1,5 +1,5 @@
-pip3 scrapy  
-pip3 beautifulsoup4  
+pip3 install scrapy  
+pip3 install beautifulsoup4  
 scrapy scraw yeyinfu  
 python3 countJ4.py  
 
